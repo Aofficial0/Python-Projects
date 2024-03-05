@@ -25,3 +25,6 @@ User input is captured using the input() function, allowing players to make choi
 Conditional statements (if, else) are used to determine the flow of the game based on the player's choices.<br>
 The game logic is structured using nested conditional statements, creating branching paths.<br>
 ASCII art is used to enhance the visual experience and depict characters and scenes within the game.<br>
+
+<h1>Try the game</h1>
+https://replit.com/@ahmedmohamed677/Egyptiangodsgame
