@@ -1,7 +1,5 @@
 <h1>Rock Paper Scissors Game</h1>
 <br>
-![rock-paper-scissors](https://github.com/Aofficial0/Python-Projects/assets/130147615/d456e3b8-fd54-48ee-9c6e-9a87119b5257)
-
 This Python script allows players to play the classic game of Rock Paper Scissors against the computer. Here's how the game works:
 <br>
 <h3>How to Play</h3>
