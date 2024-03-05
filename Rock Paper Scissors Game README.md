@@ -30,3 +30,6 @@ The random module is imported to generate the computer's choice randomly.<br>
 User input is validated to ensure it falls within the acceptable range (0, 1, or 2) representing Rock, Paper, or Scissors.<br>
 The game compares the user's choice with the computer's choice to determine the winner.<br>
 The result is displayed in the terminal, indicating whether the player wins, loses, or it's a draw.<br>
+
+<h1>Try the game</h1>
+https://replit.com/@ahmedmohamed677/rock-paper-scissors-end
